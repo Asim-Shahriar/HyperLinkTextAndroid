@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HyperLinkTextAndroid</string>
+    <string name="hyperlink">Learn more about Android app development at\n
+        android development is very easy\n
+        just need more and more practising regularly\n
+        but every day it is not possible to practise\n
+        but we have to try every day to become good developer\n
+        <a href="https://learntodroid.com">LearnToDroid.com</a>
+        Android development is now a big tech\n
+        it is using almost top company of the world\n</string>
+</resources>
